@@ -18,12 +18,6 @@ I'm Chris, a creative developer sunny Scotland! 🌌.
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
-
-
-
-## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisholtt&show_icons=true&theme=radical)
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisphilholt/)
