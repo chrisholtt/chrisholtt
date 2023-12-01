@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello, World! 
+# 👋 
 
-I'm Chris, a creative developer sunny Scotland! 🌌.
+I'm Chris, a software developer from Scotland! 🌌.
 
 ## 💻 Technologies & Tools
 
