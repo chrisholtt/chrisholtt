@@ -22,7 +22,6 @@ I'm Chris, a creative developer sunny Scotland! 🌌.
 
 
 ## 📊 GitHub Stats
-
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisholtt&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
