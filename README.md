@@ -9,7 +9,6 @@ I'm a developer passionate about building **game-changing** tools and platforms.
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
----
 
 ## 🚀 Stuff I do 
 - **Founder at [0xtra](https://0xtra.com):** Empowering creators with powerful earning tools.
