@@ -19,6 +19,8 @@ I'm a developer passionate about building **game-changing** tools and platforms.
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://chrisholt.dev)
+### 🌐 Explore My Work  
+[![chrisholt.dev](https://img.shields.io/badge/chrisholt.dev-000000?style=for-the-badge&logo=react&logoColor=white)](https://chrisholt.dev)
+
 
 </div>
