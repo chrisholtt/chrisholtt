@@ -3,6 +3,7 @@
 # 👋 Hi, I'm Chris!
 
 I'm a developer passionate about building **game-changing** tools and platforms. From crafting seamless **React apps** to diving deep into **Next.js** or bringing innovative ideas like **0xtra** to life, I'm always creating something cool for people.
+[![chrisholt.dev](https://img.shields.io/badge/chrisholt.dev-000000?style=for-the-badge&logo=react&logoColor=white)](https://chrisholt.dev)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
