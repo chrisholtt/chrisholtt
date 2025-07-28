@@ -12,8 +12,7 @@ I'm a developer passionate about building **game-changing** tools and platforms.
 
 ## 🚀 Stuff I do 
 - **Founder at [0xtra](https://0xtra.com):** Empowering creators with powerful earning tools.
-- **Developing solutions for [VetsNow](https://www.vets-now.com/):** enhancing veterinary care. 
-- **Created [CRAZY BEANZ](https://opensea.io/collection/crazybeanz):** A successful NFT project with thousands of sales.  
+- **Created [CRAZY BEANZ](https://www.crazybeanz.xyz):** A successful NFT project with thousands of sales.  
 - **Developed solutions for [MembaCRM](https://www.mymemba.io/):** Innovating CRM platforms with low-code tools.
 
 ---
