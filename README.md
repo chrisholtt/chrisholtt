@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Chris!
 
-I'm a developer passionate about building **game-changing** tools and platforms. From crafting seamless **React apps** to diving deep into **Next.js** or bringing innovative ideas like **0xtra** to life, I'm always creating something cool for people.
+I'm a developer passionate about building **game-changing** tools and platforms.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -11,7 +11,6 @@ I'm a developer passionate about building **game-changing** tools and platforms.
 
 
 ## 🚀 Stuff I do 
-- **Founder at [0xtra](https://0xtra.com):** Empowering creators with powerful earning tools.
 - **Created [CRAZY BEANZ](https://www.crazybeanz.xyz):** A successful NFT project with thousands of sales.  
 - **Developed solutions for [MembaCRM](https://www.mymemba.io/):** Innovating CRM platforms with low-code tools.
 
