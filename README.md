@@ -13,6 +13,7 @@ I'm a developer passionate about building **game-changing** tools and platforms.
 ## 🚀 Stuff I do 
 - **Created [CRAZY BEANZ](https://www.crazybeanz.xyz):** A successful NFT project with thousands of sales.  
 - **Developed solutions for [MembaCRM](https://www.mymemba.io/):** Innovating CRM platforms with low-code tools.
+- **Developed solutions for [VetsNow](https://www.vets-now.com/):** Out of hour vet services.
 
 ---
 
